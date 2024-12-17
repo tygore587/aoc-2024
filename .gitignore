@@ -1,6 +1,7 @@
 ### AOC ###
 *.txt
 !src/main/kotlin/day00/input.txt
+!src/main/kotlin/*/input_test.txt
 
 .gradle
 build/
